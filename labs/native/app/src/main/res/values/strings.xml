@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="background">White Background</string>
+    <string name="title">Title</string>
+    <string name="add">Add new flowers</string>
+    <string name="start">Get Started</string>
+    <string name="add_back">Back</string>
+    <string name="update_back">Back</string>
+    <string name="update">Update</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="color">Color</string>
+    <string name="number">Number</string>
+    <string name="price">Price</string>
+    <string name="addFlower">Add</string>
+</resources>
